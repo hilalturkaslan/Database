@@ -1,1 +1,1 @@
-Database case study
+Database example case study
