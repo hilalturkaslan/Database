@@ -1,1 +1,1 @@
-Database for in SQL case study
+Database for in SQL sample case study
