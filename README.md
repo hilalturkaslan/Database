@@ -1,1 +1,1 @@
-Database for do than it SQL sample case study
+Database for do make than it SQL case study
