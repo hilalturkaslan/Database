@@ -1,1 +1,1 @@
-Database for do make than it SQL case study
+Database for done make SQL case study
